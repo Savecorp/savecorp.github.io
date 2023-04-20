@@ -12,6 +12,8 @@ MOSTANAGEM TRAM MAP - by /u/transitscapes https://old.reddit.com/r/TransitDiagra
 
 LAGOS METRO MAP - by FrankvEck, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
+LUOYANG METRO MAP - by Windmemories - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87688235
+
 SARAJEVO TRAM & TROLLEYBUS MAP - by Larsvr6 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tramway_map_Sarajevo.png#/media/File:Tramway_map_Sarajevo.png
 
 TAICHUNG MRT MAP - by piliapp https://www.piliapp.com/mrt-taiwan/taichung/
