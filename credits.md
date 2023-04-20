@@ -8,6 +8,8 @@ MAURITIUS METRO EXPRESS MAP - by Hbf878, OpenStreetMap contributors - Own work, 
 
 DHAKA METRO MAP - by Md Moniruzzaman Mitul https://pinterest.com/pin/685250899559733310/
 
+HOHHOT RAIL TRANSIT MAP - by Yveltal, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
 MOSTANAGEM TRAM MAP - by /u/transitscapes https://old.reddit.com/r/TransitDiagrams/comments/k0939l/oc_tramway_mostaganem_algeria_under_construction/
 
 LAGOS METRO MAP - by FrankvEck, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
