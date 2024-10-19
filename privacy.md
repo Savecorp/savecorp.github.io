@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-Savecorp built this transportation map app as an Ad Supported app. This SERVICE is provided by Savecorp at no cost and is intended for use as is.
+Seqv built this transportation map app as an Ad Supported app. This SERVICE is provided by Savecorp at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -62,7 +62,7 @@ This policy is effective as of 2022-07-29
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at savecorp@protonmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@seqv.eu
 
 
 
@@ -88,11 +88,11 @@ You should be aware that there are certain things that Savecorp will not take re
 
 If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
-Along the same lines, Savecorp cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Savecorp cannot accept responsibility.
+Along the same lines, Seqv cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Seqv cannot accept responsibility.
 
 With respect to Savecorp’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Savecorp accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Savecorp does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Seqv does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
 Changes to This Terms and Conditions
 
@@ -102,5 +102,5 @@ These terms and conditions are effective as of 2022-07-29
 
 Contact Us
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at savecorp@protonmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at support@seqv.eu
 
